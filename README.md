@@ -1,6 +1,13 @@
 ## NomNomHub
 
-This project is a full-stack application, comprising a backend and a frontend, that can be run locally. Below, you'll find detailed instructions for setting up and running the project in a local environment.
+This project is a full-stack application built in Vite, React and with a postgres database. Tests are written in Cypress. 
+
+The project idea is that you add recipes, which you can then add to menus. 
+
+Below, you'll find detailed instructions for setting up and running the project in a local environment.
+
+<img src="frontend/src/assets/main-page.png" width="500" />
+<img src="frontend/src/assets/add-recipe.png" width="500" />
 
 ## Project Structure
 
