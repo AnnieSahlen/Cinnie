@@ -8,6 +8,8 @@ Below, you'll find detailed instructions for setting up and running the project 
 
 <img src="frontend/src/assets/main-page.png" width="500" />
 <img src="frontend/src/assets/add-recipe.png" width="500" />
+<img src="frontend/src/assets/flow-chart.png" width="300" />
+<img src="backend/db/ER-diagram.png" width="800" />
 
 ## Project Structure
 
